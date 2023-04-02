@@ -1,0 +1,7 @@
+name: 'CxDx React Builder'
+type: module
+description: 'ReactJs with webpack bloc.'
+core_version_requirement: ^9 || ^10
+package: 'cxdx'
+dependencies:
+  - block
