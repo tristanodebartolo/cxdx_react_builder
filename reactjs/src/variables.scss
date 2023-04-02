@@ -1,0 +1,70 @@
+$bg: rgb(230, 230, 230);
+
+$bg-dark: rgb(230, 230, 230);
+$bg-sidebar-dark: rgb(196, 196, 196);
+$bg-main-dark: rgb(224, 224, 224);
+$bg-wrapper-dark: rgb(146, 146, 146);
+
+$admin-active-dark: rgba(0,0,0,.1);
+$admin-active-dark-2: rgba(0,0,0,.2);
+$admin-border-dark: rgba(78, 78, 78, 0.1);
+$admin-border-dark-1: rgba(78, 78, 78, 0.3);
+
+$bg-form-color-dark: rgba(235, 235, 235, 0.24);
+
+$bg-light: rgb(235, 235, 235);
+$bg-sidebar-light: rgb(228, 222, 222);
+$bg-main-light: rgb(224, 224, 224);
+$bg-wrapper-light: rgb(146, 146, 146);
+
+$admin-active-light: rgba(0,0,0,.03);
+$admin-active-light-2: rgba(0,0,0,.06);
+$admin-border-light: rgba(78, 78, 78, .05);
+$admin-border-light-1: rgba(78, 78, 78, 0.4);
+
+$bg-form-color-light: rgba(151, 151, 151, 0.1);
+$bg-form-color-light-focus: rgba(151, 151, 151, 0.2);
+
+$bg-page: rgb(80, 128, 173);
+$bg-sections: rgb(164, 235, 235);
+$bg-section: rgb(233, 168, 168);
+$bg-add-section: rgb(233, 221, 168);
+$bg-question: rgb(227, 247, 183);
+
+
+// FORM
+// LIGHT
+$bg-sections-light: #DBE3EA;
+$bg-sections-header-light: #3F4573;
+$bg-sections-header-text-light: #ffffff;
+
+$bg-sections-question-text-light: #333965;
+$bg-sections-question-box-light: #c3d5e1;
+$bg-sections-question-box-check-light: #c4d6ae;
+$bg-sections-question-number-light: #94bb00;
+
+
+// DARK
+$bg-sections-dark: #DBE3EA;
+$bg-sections-header-dark: #3F4573;
+$bg-sections-header-text-dark: #ffffff;
+
+$bg-sections-question-text-dark: #333965;
+$bg-sections-question-box-dark: #c3d5e1;
+$bg-sections-question-box-check-dark: #c4d6ae;
+$bg-sections-question-number-dark: #94bb00;
+
+// Small devices (landscape phones, 576px and up)
+// @media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+// @media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+// @media (min-width: 992px) { ... }
+
+// X-Large devices (large desktops, 1200px and up)
+// @media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+// @media (min-width: 1400px) { ... }
