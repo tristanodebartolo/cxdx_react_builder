@@ -1,0 +1,9 @@
+react-builder:
+  version: VERSION
+  js:
+    reactjs/dist/front.bundle.js: {preprocess: false}
+  dependencies:
+    - core/drupal
+    - core/drupal.announce
+    - core/jquery
+    - core/once
