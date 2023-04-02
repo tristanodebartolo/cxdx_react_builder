@@ -1,0 +1,4 @@
+dist/*.*.js
+dist/*.*.js.LICENSE.txt
+package-lock.json
+node_modules
